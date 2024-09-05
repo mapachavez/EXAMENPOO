@@ -1,0 +1,5 @@
+placa;combustible;paradas;capacidad;licencia;chofer
+ABC-1234;100;4;50;1234;Juan Cevallos
+XYZ-7894;130;12;55;5678;Marcia Almeida
+LMN-4564;120;8;45;9012;Carlos Aguilar
+DEF-3214;150;15;60;3456;Ana Mendoza
